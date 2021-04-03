@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "worker loader module for webpack",
   "license": "MIT",
-  "repository": "webpack-contrib/worker-loader",
+  "repository": "tranvansang/worker-loader",
   "author": "Tobias Koppers @sokra",
   "homepage": "https://github.com/webpack-contrib/worker-loader",
   "bugs": "https://github.com/webpack-contrib/worker-loader/issues",
@@ -76,5 +76,8 @@
   ],
   "jest": {
     "testEnvironment": "node"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
