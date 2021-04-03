@@ -12,6 +12,10 @@
 [![chat][chat]][chat-url]
 [![size][size]][size-url]
 
+# This is a temporary release while waiting for the PR being merged
+
+worker-loader with nodejs's worker_threads support out of the box.
+
 # worker-loader
 
 worker loader module for webpack
